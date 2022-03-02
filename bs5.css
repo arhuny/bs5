@@ -1,0 +1,74 @@
+.header_logo {
+    width: 45px;
+    height: auto;
+}
+
+.logo {
+    font-size: 30px;
+}
+
+.container img {
+    width: 75%;
+}
+
+.n img{
+    width: 100%;
+}
+
+#qwe {
+    width: 7%;
+    margin-left: 25%;
+    margin-right: 4%;
+}
+
+#rty {
+    width: 7%;
+    margin-right: 4%;
+}
+
+#uio {
+    width: 12%;
+    margin-right: 4%;
+}
+
+#asd {
+    width: 10%;
+    margin-right: 4%;
+}
+
+.x .col {
+    width: 85%;
+}
+
+.x .col img {
+    width: 80%;
+}
+
+#ab {
+    width: 40%;
+}
+
+#cd {
+    width: 40%;
+}
+
+#df {
+    width: 60%;
+}
+
+#vb{
+    width: 5%;
+}
+
+.d {
+    width: 80%;
+    margin-left: 25%;
+}
+
+#kl {
+    width: 20%;
+}
+
+#hj {
+    width: 20%;
+}
